@@ -1,0 +1,2571 @@
+   1  pwd
+    2  ls
+    3  mkdir "Divyank"
+    4  ls
+    5  python3
+    6  python3 -V
+    7  python3 -V
+    8  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    9  pwd
+   10  ls
+   11  nano ~/.inputrc
+   12  ls
+   13  nano ~/.inputrc
+   14  login
+   15  cd desktop
+   16  ls
+   17  mkdir Interview Kickstart Office work
+   18  ls
+   19  mkdir "Office Work"
+   20  ls
+   21  cd "Office Work"
+   22  git clone https://gitlab.com/codebards/uplevel.git
+   23  ls -a
+   24  ls
+   25  cd Desktop
+   26  ls
+   27  cd Desktop
+   28  cd "Office Word"
+   29  cd "Office Work"
+   30  ls
+   31  cd ..
+   32  ls
+   33  ls -a
+   34  cd divyankgoyal
+   35  s -a
+   36  ls -a
+   37  cls
+   38  clear
+   39  clear
+   40  git clone https://gitlab.com/codebards/uplevel.git
+   41  git clone https://gitlab.com/codebards/uplevel.git
+   42  git clone https://gitlab.com/codebards/uplevel.git
+   43  git clone https://gitlab.com/codebards/uplevel.git
+   44  ls
+   45  cd Desktop
+   46  git clone https://gitlab.com/codebards/uplevel.git
+   47  clear
+   48  cd officework
+   49  git clone https://gitlab.com/codebards/uplevel.git
+   50  cd ..
+   51  pwd
+   52  cd officework
+   53  pwd
+   54  cd ..
+   55  git clone https://gitlab.com/codebards/uplevel.git
+   56  git clone https://gitlab.com/codebards/uplevel.git
+   57  pwd
+   58  python3 -m pip install --user --upgrade pip
+   59  pip install --upgrade pip
+   60  /Library/Developer/CommandLineTools/usr/bin/python3 -m pip install --upgrade pip
+   61  python3 -m pip install --user --upgrade pip
+   62  pip install --upgrade pip
+   63  python3 -m pip install --user virtualenv
+   64  python3 -m venv venv-uplevel
+   65  source venv-uplevel/bin/activate
+   66  brew install mysql
+   67  pip install --upgrade pip
+   68  python3 -m pip install --user virtualenv
+   69  brew install mysql
+   70  brew install mysql
+   71  ls
+   72  python3 --version
+   73  python3 version
+   74  python3 pip --version
+   75  pip install panda
+   76  pip --version
+   77  ls
+   78  \tcd venv-uplevel
+   79  ls
+   80  cd ..
+   81  ls -a
+   82  "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   83  $(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)
+   84  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   85  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/divyankgoyal/.zprofile
+   86  eval "$(/opt/homebrew/bin/brew shellenv)"
+   87  brew cask install iterm2
+   88  pwd
+   89  xcode-select --install
+   90  xcode-select -r
+   91  ls
+   92  cd Desktop
+   93  cd ..
+   94  ls
+   95  ls -a
+   96  brew cask install iterm2
+   97  brew cask install iterm2
+   98  brew --version
+   99  brew install mysql
+  100  brew install mysql-connector-c
+  101  ls
+  102  ls -a
+  103  ls -a
+  104  source
+  105  source .zshrc
+  106  clear
+  107  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  108  pwd
+  109  ls
+  110  ls -a
+  111  touch .zshrc
+  112  ls
+  113  ls -a
+  114  pwd
+  115  zsh --version
+  116  cd
+  117  brew install zsh
+  118  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+  119  pwd
+  120  ls
+  121  ls -a
+  122  zsh --version
+  123  upgrade_oh_my_zsh
+  124  zsh --version
+  125  source .zshrc
+  126  ls
+  127  source .zshrc
+  128  ls
+  129  source .zshrc
+  130  pwd
+  131  git clone https://github.com/powerline/fonts.git
+  132  ls -a
+  133  cd fonts
+  134  ls
+  135  ./install.sh
+  136  cd ..
+  137  ls
+  138  source .zshrc
+  139  ls
+  140  ls -a
+  141  source .zshrc
+  142  cd
+  143  ls
+  144  ls -a
+  145  source .zshrc
+  146  cd
+  147  ls
+  148  git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting'\n'
+  149  source .zshrc
+  150  git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting\n
+  151  source .zshrc
+  152  cd
+  153  ls
+  154  ls -a
+  155  git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
+  156  source .zshrc
+  157  cd
+  158  ls -a
+  159  cd D
+  160  cd Desktop
+  161  cd officework/uplevel/
+  162  cd ..
+  163  cd
+  164  ls
+  165  ls -a
+  166  ok
+  167  ls
+  168  brew install mysql-connector-c
+  169  cd
+  170  ls
+  171  ls -a
+  172  cd officework
+  173  cd officework/uple
+  174  cd Desktop
+  175  officework
+  176  ls
+  177  cd uplevel
+  178  ls
+  179  pre-commit install
+  180  cd ..
+  181  pre-commit install
+  182  pw
+  183  pwd
+  184  pre-commit install
+  185  python3 -m pip install pre-commit --user
+  186  pip install -r requirements.txt
+  187  python3 -m pip install -r requirements.txt --user
+  188  pip install numpy
+  189  pip install panda
+  190  pip3 install panda
+  191  python3 -m pip install -r Desktop/officework/uplevel/requirements.txt --user
+  192  python3 -m pip install ~/Downloads/Pillow-8.0.1-cp38-cp38-macosx_11_0_arm64.whl
+  193  python3 -m pip install -r Desktop/officework/uplevel/requirements.txt --user
+  194  python3 --version
+  195  source .zshrc
+  196  python3 -m pip install -r Desktop/officework/uplevel/requirements.txt --user
+  197  source .zshrc
+  198  python3 -m pip install -r Desktop/officework/uplevel/requirements.txt --user
+  199  python3 -m venv venv-uplevel
+  200  source venv-uplevel/bin/activate
+  201  pip3 install Desktop/officework/uplevel/requirements.txt --user
+  202  pip3 install Desktop/officework/uplevel/requirements.txt
+  203  pip3 install -r Desktop/officework/uplevel/requirements.txt
+  204  pip install -r Desktop/officework/uplevel/requirements.txt
+  205  pip3 install -r Desktop/officework/uplevel/requirements.txt
+  206  python3 -m venv venv-uplevel\nsource venv-uplevel/bin/activate
+  207  python3 -m venv venv-uplevel
+  208  source venv-uplevel/bin/activate
+  209  pip  install -r Desktop/officework/uplevel/requirements.txt
+  210  pwd
+  211  cd officework/uplevel
+  212  ls
+  213  cd Desktop/officework
+  214  ls
+  215  cd uplevel
+  216  ls
+  217  vi requirements.txt
+  218  v
+  219  vi requirements.txt
+  220  cd ..
+  221  cd uplevel
+  222  pip install -r requirements.txt
+  223  mysql -u root
+  224  cd ..
+  225  mysql -u root
+  226  mysql
+  227  mysql --version
+  228  musql --upgrade
+  229  mysql --upgrade
+  230  mysql -u root\nALTER USER 'root'@'localhost' IDENTIFIED BY 'YOUR_PASSWORD';\ncreate database uplevel;
+  231  mysql -u root
+  232  mysql_config --socket
+  233  mysql -u root
+  234  brew install mysql
+  235  mysql -u root
+  236  brew install mysql-connector-c
+  237  brew install mysql-server
+  238  mysql -u root
+  239  brew install mysql-client
+  240  brew reinstall mysql-client
+  241  mysql -u root
+  242  echo 'export PATH="/opt/homebrew/opt/mysql-client/bin:$PATH"' >> ~/.zshrc
+  243  export LDFLAGS="-L/opt/homebrew/opt/mysql-client/lib"
+  244  export CPPFLAGS="-I/opt/homebrew/opt/mysql-client/include"
+  245  mysql -u root
+  246  ls -a
+  247  mysql -u root
+  248  mysql --version
+  249  pwd
+  250  mysql-connector-c --version
+  251  brew install mysql-connector-c
+  252  brew install mysql-client
+  253  brew install mysql-server
+  254  mysql -u root
+  255  sudo /usr/local/mysql/support-files/mysql.server start
+  256  /usr/local/mysql/support-files/mysql.server start
+  257  netstat -nlp
+  258  netstat -nlp --p
+  259  netstat --p
+  260  netstat --m
+  261  netstat -m
+  262  mysql.server start
+  263  mysql -u root
+  264  mysql.server start
+  265  mysql -u root
+  266  mysql.server start
+  267  history
+  268  pwd
+  269  source venv-uplevel/bin/activate
+  270  mysql.server start
+  271  show database
+  272  show databases
+  273  mysql.server start
+  274  mysql -u root
+  275  kill 2022-09-15T19:44:58.6NZ
+  276  kill T19:44:58.6NZ
+  277  kill 44:58.6NZ
+  278  show full process list
+  279  mysql.server start
+  280  show full processlist;
+  281  pip reinstall mysql
+  282  pip install mysql
+  283  mysql.server start
+  284  pip install mysql
+  285  mysql.server start
+  286  kill -0
+  287  kill --help
+  288  kill --l
+  289  kill -l
+  290  kill -INFO
+  291  INFO
+  292  kill
+  293  KILL
+  294  KILL 0
+  295  mysql.server start
+  296  KILL 0
+  297  KILL 2022-09-15T20:00:09.6NZ
+  298  KILL T20:00:09.6NZ
+  299  KILL :00:09.6NZ
+  300  KILL 6NZ
+  301  KILL NZ
+  302  brew service mysql kill
+  303  brew services stop mysqll
+  304  brew services stop mysql
+  305  mysql.server start
+  306  brew services stop mysql
+  307  mysql -u root -p
+  308  mysql -uroot -p uplevel < ~/Downloads/uplevel.sql
+  309  ls
+  310  mysql -uroot -p uplevel < ~divyankgoyal/Downloads/uplevel_dump.sql
+  311  ./manage.py runserver
+  312  ls
+  313  cd venv-uplevel
+  314  ls
+  315  ls -a
+  316  cd ..
+  317  ls
+  318  ls -
+  319  ls -a
+  320  cd venv-uplevel
+  321  ls -a
+  322  ls
+  323  cd ..
+  324  cd officework/uplevel
+  325  cd Desktop/officework/uplevel
+  326  ls -a
+  327  cd uplevel
+  328  ls -a
+  329  ls
+  330  ls -a
+  331  cp .env.example .env
+  332  ls -a
+  333  cd ..
+  334  ls
+  335  ./manage.py runserver
+  336  source venv-uplevel/bin/activate
+  337  cd ..
+  338  source venv-uplevel/bin/activate
+  339  cd Desktop/officework/uplevel
+  340  ls
+  341  ./manage.py runserver
+  342  ls
+  343  cd Desktop/officework/uplevel
+  344  ls
+  345  cd ../..
+  346  cd ..
+  347  source venv-uplevel/bin/activate
+  348  cd Desktop/officework/uplevel
+  349  ls
+  350  manage.py runserver
+  351  ./manage.py runserver
+  352  ./manage.py
+  353  mysql -u root
+  354  mysql -u root -p
+  355  mysql -uroot -p uplevel < ~/Downloads/uplevel.sql
+  356  mysql -uroot -p uplevel < ~/Downloads/uplevel_dump.sql
+  357  l
+  358  ls
+  359  mysql -uroot -p uplevel < ~/Downloads/uplevel_dump.sql
+  360  clear
+  361  ls
+  362  cd Desktop/officework/uplevel
+  363  ls
+  364  manage.py runserver
+  365  ./manage.py runserver
+  366  cd ..
+  367  source venv-uplevel/bin/activate
+  368  cd Desktop/officework/uplevel
+  369  ./manage.py runserver
+  370  cd ..
+  371  pip install django
+  372  cd Desktop/officework/uplevel
+  373  ./manage.py runserver
+  374  clear
+  375  ./manage.py runserver
+  376  source venv-uplevel/bin/activate
+  377  cd Desktop/officework/uplevel
+  378  ./manage.py runserver
+  379  clear
+  380  ./manage.py runserver
+  381  source uplevel/.env
+  382  ./manage.py runserver
+  383  clear
+  384  ./manage.py runserver
+  385  clear
+  386  ./manage.py runserver
+  387  clear
+  388  cd Desktop/officework/uplevel
+  389  ./manage.py runserver
+  390  cd ../..
+  391  cd ..
+  392  source venv-uplevel/bin/activate
+  393  cd Desktop/officework/uplevel
+  394  ./manage.py runserver
+  395  source venv-uplevel/bin/activate
+  396  cd Desktop/officework/uplevel
+  397  ./manage.py runserver
+  398  mysql -u root -p
+  399  ./manage.py runserver
+  400  source venv-uplevel/bin/activate
+  401  cd Desktop/officework/uplevel
+  402  ./manage.py runserver
+  403  source venv-uplevel/bin/activate
+  404  cd Desktop/officework/uplevel
+  405  ./manage.py runserver
+  406  clear
+  407  ./manage.py runserver
+  408  python ./manage.py runserver
+  409  python3 ./manage.py
+  410  python3 ./manage.py runserver
+  411  clear
+  412  python ./manage.py runserver
+  413  python ./manage.py runserver -p
+  414  ./manage.py runserver
+  415  lear
+  416  clear
+  417  pwd
+  418  ls
+  419  source venv-uplevel/bin/activate
+  420  mysql -u root -p
+  421  mysql -u root
+  422  ALTER USER 'root'@'localhost' IDENTIFIED BY 'YOUR_PASSWORD';
+  423  mysql -u root
+  424  mysql -u root -p
+  425  sudo /usr/local/mysql/support-files/mysql.server start
+  426  mysql server start
+  427  mysql -u root -p
+  428  mysql.server start
+  429  mysql -h localhost -u root -p
+  430  ls
+  431  cd Desktop/officework/uplevel
+  432  cd ../..clear
+  433  cd ../..
+  434  cd ..
+  435  clear
+  436  cd ~
+  437  mkdir codebase
+  438  cd codebase
+  439  git clone https://gitlab.com/codebards/uplevel.git
+  440  cd
+  441  pwd
+  442  ls
+  443  cd Desktop/officework/uplevel
+  444  cd ../..
+  445  cd ..
+  446  source venv-uplevel/bin/activate
+  447  cd codebase
+  448  python3 -m pip install --user --upgrade pip
+  449  pip install --upgrade pip
+  450  python3 -m pip install --user virtualenv
+  451  python3 -m venv venv-uplevel
+  452  ls
+  453  source venv-uplevel/bin/activate
+  454  brew install mysql
+  455  brew install mysql-connector-c
+  456  pre-commit install\n
+  457  pip install pre-commit
+  458  pre-commit install\n
+  459  cd uplevel
+  460  pre-commit install\n
+  461  pip install -r requirements.txt
+  462  python3 -m pip install --upgrade pip
+  463  pip install -r requirements.txt
+  464  ls
+  465  pip install -r requirements.txt
+  466  pip install scipy==1.7.1
+  467  cd uplevel
+  468  cd codebase
+  469  cd uplevel
+  470  pip install scipy==1.7.1
+  471  cd ..
+  472  source venv-uplevel/bin/activate
+  473  pip install scipy==1.7.1
+  474  pip install numpy
+  475  pip install scipy==1.7.1
+  476  pip install -r requirements.txt
+  477  cd up
+  478  cd uplevel
+  479  pip install -r requirements.txt
+  480  mysql -u root
+  481  mysql -u root -p
+  482  cp ~/Downloads/env ~/codebase/uplevel/uplevel/.env
+  483  ls
+  484  mysql -uroot -p uplevel < ~/Downloads/uplevel.sql
+  485  mysql -uroot -p uplevel < ~/Downloads/uplevel_dump.sql
+  486  ./manage.py runserver
+  487  ls
+  488  cd codebase
+  489  cd uplevel
+  490  ls
+  491  ./manage.py runserver
+  492  source venv-uplevel/bin/activate
+  493  cd ..
+  494  source venv-uplevel/bin/activate
+  495  cd up
+  496  cd uplevel
+  497  ./manage.py runserver
+  498  cd ..
+  499  ls
+  500  cp ~/Downloads/env ~/codebase/uplevel/uplevel/.env\n
+  501  cd codebase
+  502  cd uplevel
+  503  ./manage.py runserver
+  504  cd ..
+  505  ls
+  506  mysql -uroot -p uplevel < ~/Downloads/uplevel.sql
+  507  ./manage.py runserver
+  508  pip install scipy==1.7.1
+  509  pip install numpy
+  510  git clone https://github.com/numpy/numpy.git
+  511  pip install numpy
+  512  pip install scipy==1.7.1
+  513  pip install pip==21.3.1
+  514  pip install scipy==1.7.1
+  515  python3 -m pip install --upgrade pip
+  516  pip install scipy==1.7.1
+  517  pip install scipy
+  518  ./manage.py runserver
+  519  ls
+  520  cd codebase
+  521  cd uplevel
+  522  scipy --version
+  523  pip --version
+  524  ./manage.py runserver
+  525  cd codebase
+  526  source venv-uplevel/bin/activate
+  527  cd uplevel
+  528  manage.py runserver
+  529  ls
+  530  manage.py runserver
+  531  cd ..
+  532  manage.py runserver
+  533  cd uplevel
+  534  cd ..
+  535  ls
+  536  cd uplevel
+  537  manage.py runserver
+  538  ./manage.py runserver
+  539  cd codebase
+  540  source venv-uplevel/bin/activate
+  541  cd uplevel
+  542  ls
+  543  python manage.py shell
+  544  cd codebase
+  545  source venv-uplevel/bin/activate
+  546  cd uplevel
+  547  ./manage.py runserver
+  548  python manage.py shell
+  549  ./manage.py runserver
+  550  pre-commit install\n
+  551  ./manage.py migrate
+  552  ./manage.py runserver
+  553  ls
+  554  git status
+  555  brew install git
+  556  git --version
+  557  git status
+  558  git init
+  559  git status
+  560  ls -a
+  561  cd codebase
+  562  git init
+  563  status
+  564  git status
+  565  git add
+  566  git status
+  567  git add .
+  568  cd codebase
+  569  ls -a
+  570  cd uplevel
+  571  ls -a
+  572  git add .
+  573  cd ..
+  574  ls
+  575  git commit -m "Code-one"
+  576  git push origin first_push
+  577
+  578  source /Users/divyankgoyal/codebase/venv-uplevel/bin/activate
+  579  ls
+  580  git status
+  581  git add .
+  582  git status
+  583  git log
+  584  cd codebase
+  585  git log
+  586  clear
+  587  git log
+  588  clear
+  589  cleae
+  590  clear
+  591  cd codebase
+  592  git log
+  593  cd codebase
+  594  git log
+  595  cd codebase
+  596  git --no-pager diff
+  597  git log
+  598  git commit -m "Code-two"
+  599  git log
+  600  history
+  601  git status
+  602  git add uplevel
+  603  git status
+  604  git add ./uplevel
+  605  ls
+  606  git add .
+  607  git status
+  608  git add uplevel/*
+  609  cd uplevel
+  610  git add .
+  611  git status
+  612  git commit -m "Code-two"
+  613  git status
+  614  git add upsurge/managers.py
+  615  git status
+  616  git commit -m "Code-three"
+  617  git log
+  618  ls
+  619  pwd
+  620  django-admin startproject Hello
+  621  python manage.py runserver
+  622  python3 manage.py runserver
+  623  python3 manage.py
+  624  python3 manage.py runserver
+  625  python3 manage.py
+  626  python3 manage.py startproject home
+  627  ls
+  628  python3 manage.py runserver
+  629  clear
+  630  ./manage.py runserver
+  631  python3 ./manage.py runserver
+  632  python3 ./manage.py createapp home
+  633  python3 ./manage.py
+  634  python3 ./manage.py startapp home
+  635  python3 ./manage.py runserver
+  636  /usr/bin/python3 -m pip install -U autopep8
+  637  ls
+  638  python3 ./manage.py startapp test
+  639  python3 ./manage.py runserver
+  640  ls -a
+  641  git status
+  642  ls -a
+  643  git status
+  644  pwd
+  645  python3 ./manage.py runserver
+  646  ls
+  647  python3 ./manage.py runserver
+  648  boto3 --version
+  649  pip install boto3==1.17.42
+  650  python3 ./manage.py runserver
+  651  cd ..
+  652  source /Users/divyankgoyal/codebase/venv-uplevel/bin/activate
+  653  cd uplevel
+  654  python3 ./manage.py runserver
+  655  source /Users/divyankgoyal/codebase/venv-uplevel/bin/activate
+  656  source
+  657  source /Users/divyankgoyal/codebase/venv-uplevel/bin/activate
+  658  ls
+  659  cd uplevel
+  660  python3 manage.py
+  661  python3 manage.py runserver
+  662  source /Users/divyankgoyal/codebase/venv-uplevel/bin/activate
+  663  python3 manage.py runserver
+  664  ls
+  665  cd uplevel
+  666  ls
+  667  python3 manage.py runserver
+  668  git status
+  669  python3 manage.py runserver
+  670  ls
+  671  cd Hello
+  672  ls
+  673  python3 manage.py runserver
+  674  ls
+  675  python3 manage.py runserver
+  676  ls
+  677  cd ..
+  678  source /Users/divyankgoyal/codebase/venv-uplevel/bin/activate
+  679  cd uplevel
+  680  python3 manage.py runserver
+  681  mingw
+  682  pip install mingw
+  683  /Library/Developer/CommandLineTools/usr/bin/python3 -m pip install --upgrade pip
+  684  pip install mingw
+  685  pip install mingw==9.2.0
+  686  sudo port install mingw-w64
+  687  pip install mingw-w64
+  688  brew install mingw-w64
+  689  g++ --version
+  690  export PATH = /Library/Developer/CommandLineTools/usr/bin
+  691  ls
+  692  cd Library
+  693  ls
+  694  cd Developer
+  695  ls -a
+  696  cd ..
+  697  cd Desktop
+  698  ls
+  699  cd C++\ compler
+  700  gcc file.cpp
+  701  g++ file.cpp
+  702  where g++
+  703  g++ --version
+  704  brew install mingw-w64
+  705  cd
+  706  ls
+  707  cd Library/Developer
+  708  g++
+  709  source /Users/divyankgoyal/codebase/venv-uplevel/bin/activate
+  710  ls
+  711  source /Users/divyankgoyal/codebase/venv-uplevel/bin/activate
+  712  cd uplevel
+  713  python3 manage.py runserver
+  714  sublime
+  715  echo home
+  716  echo user
+  717  echo $user
+  718  echo $home
+  719  run
+  720  ls
+  721  echo file.cpp
+  722  file.cpp
+  723  ./file
+  724  ./file/
+  725  ./file.cpp
+  726  ./file
+  727  g++ file.cpp
+  728  ./file
+  729  a.out
+  730  ./a.out
+  731  g++ -o file.cpp
+  732  gcc-11 --version
+  733  g++-11 --version
+  734  g++ -11 --version
+  735  g++ 11 --version
+  736  g++ --version
+  737  g++ where
+  738  cd Library
+  739  cd ..
+  740  ls
+  741  cd Applications
+  742  ls
+  743  ls -a
+  744  cd Xcode.app
+  745  brew install mingw-w64
+  746  brew reinstall mingw-w64
+  747  g++ --version
+  748  brew uninstall mingw-w64
+  749  g++ --version
+  750  gcc --version
+  751  g++ -dumpversion
+  752  brew install mingw-w64
+  753  brew uninstall g++
+  754  brew uninstall clang
+  755  ls
+  756  cd document
+  757  cd documents
+  758  ls
+  759  cd Mingw
+  760  ls
+  761  cd bin
+  762  pwd
+  763  ls
+  764  cd ../../..
+  765  ls
+  766  cd desktop
+  767  cd mingw
+  768  cd bin
+  769  ls
+  770  cd g++.exe
+  771  pwd
+  772  brew install g++
+  773  brew install g++ --upgrade
+  774  g++ --version
+  775  brew install g++
+  776  brew install gcc
+  777  g++ --version
+  778  brew upgrade g++
+  779  brew upgrade gcc
+  780  gcc --version
+  781  gcc pwd
+  782  gcc where
+  783  where gcc
+  784  brew install gcc@10
+  785  brew install gcc@11
+  786  where g++
+  787  where gcc@10
+  788  where gcc-10
+  789  where gcc-11
+  790  where gcc-10
+  791  brew install g++@11
+  792  where g++-11
+  793  cd opt
+  794  cd ./opt
+  795  where gcc-11
+  796  gcc-11 --version
+  797  g++-11 --version
+  798  g++ --version
+  799  brew install g++-17
+  800  brew install g++-13
+  801  brew install g++-12
+  802  g++-12
+  803  g++-12 --version
+  804  ls
+  805  pwd
+  806  where g++-11
+  807  where opt
+  808  ls
+  809  pwd
+  810  cd ..
+  811  cd users
+  812  ls
+  813  cd shared
+  814  ls
+  815  cd ..
+  816  ls
+  817  cd opt
+  818  ls
+  819  cd homebrew
+  820  ls
+  821  cd bin
+  822  ls
+  823  brew uninstall g++-12
+  824  brew uninstall gcc-12
+  825  brew uninstall gcc@12
+  826  brew uninstall gcc@11
+  827  brew uninstall g++@12
+  828  history
+  829  brew install g++-11
+  830  brew install g++@11
+  831  history
+  832  where g++-11
+  833  brew install g++@111
+  834  cd ..
+  835  cd..
+  836  cd ..
+  837  ls
+  838  brew install g++@111
+  839  brew install g++@11
+  840  brew install g++-11
+  841  brew install gcc-11
+  842  brew install gcc@11
+  843  where g++-11
+  844  /Users/divyankgoyal/Desktop/C++\ compiler/file ; exit;
+  845  sudo port install astyle
+  846  brew install port
+  847  brew install Macports
+  848  sudo port install astyle
+  849  brew install astyle
+  850  pip3 install pyastyle
+  851  cd uplevel
+  852  cd ..
+  853  source /Users/divyankgoyal/codebase/venv-uplevel/bin/activate
+  854  cd uplevel
+  855  python3 manage.py runserver
+  856  ls
+  857  pwd
+  858  cd ..
+  859  ls
+  860  python3 manage.py runserver
+  861  cd codebase
+  862  ls
+  863  git status
+  864  git log
+  865  mysql -u root
+  866  mysql -u root -p
+  867  mysql start
+  868  mysql.server start
+  869  mysql -u root -p
+  870  source /Users/divyankgoyal/codebase/venv-uplevel/bin/activate
+  871  ls
+  872  cd uplevel
+  873  python3 manage.py runserver
+  874  ls
+  875  cd code-bards
+  876  ls
+  877  cd code-bards
+  878  cd code_bards
+  879  python3 -m venv venv-career-tools
+  880  ls
+  881  source /Users/divyankgoyal/code_bards/venv-career-tools/bin/activate
+  882  cd ..
+  883  ls
+  884  cd career-tools-master
+  885  python3 manage.py runserver
+  886  pip install -r requirements.txt
+  887  python3 manage.py runserver
+  888  cd ..
+  889  ls
+  890  source /Users/divyankgoyal/code_bards/venv-career-tools/bin/activate
+  891  cd career-tools-master
+  892  python3 manage.py runserver
+  893  pip install -r requirements.txt
+  894  /Users/divyankgoyal/code_bards/venv-career-tools/bin/python3 -m pip install --upgrade pip'\npython3 manage.py runserver
+  895  pip install -r requirements.txt
+  896  /Users/divyankgoyal/code_bards/venv-career-tools/bin/python3 -m pip install --upgrade pip
+  897  pip install -r requirements.txt
+  898  python3 manage.py runserver
+  899  type python3 -V
+  900  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  901  type python3 -V
+  902  pip install -r requirements.txt
+  903  type python3 -V
+  904  pip install -r requirements.txt
+  905  xcode-select --install
+  906  python3 manage.py runserver
+  907  python3 --version
+  908  pip install -r requirements.txt
+  909  source /Users/divyankgoyal/codebase/venv-uplevel/bin/activate
+  910  python3 manage.py runserver
+  911  source /Users/divyankgoyal/code_bards/venv-career-tools/bin/activate
+  912  python3 manage.py runserver
+  913  pip install -r requirements.txt
+  914  cd ..
+  915  ls
+  916  python3 -m venv venv-career-tools
+  917  ls
+  918  cd career-tools-master
+  919  ls
+  920  python3 manage.py runserver
+  921  pip install -r requirements.txt
+  922  bash run_prod_server.sh\n\n
+  923  cd ..
+  924  source /Users/divyankgoyal/code_bards/venv-career-tools/bin/activate
+  925  cd code_bards
+  926  bash run_prod_server.sh\n\n
+  927  ls
+  928  cd career-tools-master
+  929  bash run_prod_server.sh\n\n
+  930  ls
+  931  bash run_dev_server.sh\n\n
+  932  pip install -r requirements.txt
+  933  /Users/divyankgoyal/code_bards/venv-career-tools/bin/python3 -m pip install --upgrade pip
+  934  pip install -r requirements.txt
+  935  bash run_dev_server.sh\n\n
+  936  bash run_prod_server.sh
+  937  pip3 install -r requirements.txt
+  938  gcc --version
+  939  /usr/bin/clang ; exit;
+  940  ls
+  941  python3 -V
+  942  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  943  cd ..
+  944  ls
+  945  source /Users/divyankgoyal/code_bards/venv-career-tools/bin/activate
+  946  cd career-tools-master
+  947  pip install -r requirements.txt
+  948  python3 --version
+  949  python --version
+  950  pip install -r requirements.txt
+  951  pip install backports.zoneinfo
+  952  pip install backports.zoneinfo;python_version<"3.9"
+  953  pip install backports.zoneinfo==0.2.1;python_version<"3.9"
+  954  pip install -r requirements.txt
+  955  ls
+  956  pip install -r requirements.txt
+  957  cd ..
+  958  ls
+  959  source /Users/divyankgoyal/codebase/venv-uplevel/bin/activate
+  960  cd uplevel
+  961  source /Users/divyankgoyal/codebase/venv-uplevel/bin/activate
+  962  pip install -r requirements.txt
+  963  pip install --upgrade pip
+  964  pip install -r requirements.txt
+  965  python3 manage.py runserver
+  966  mysql.server start
+  967  python3 manage.py runserver
+  968  pip install -r requirements.txt
+  969  python --version
+  970  python3 --versiont
+  971  python3 --version
+  972  python2 --version
+  973  python1 --version
+  974  pip install -r requirements.txt
+  975  brew install gcc
+  976  brew install g++
+  977  pip install -r requirements.txt
+  978  brew install python.h
+  979  pip install asgiref==3.5.0
+  980  pip install async-generator==1.10
+  981  pip install attrs==21.4.0
+  982  pip install certifi==2021.10.8\ncffi==1.15.0\ncharset-normalizer==2.0.12\ncryptography==36.0.1\nDjango==4.0.2
+  983  pip install certifi==2021.10.8
+  984  pip install cffi==1.15.0
+  985  pip install charset-normalizer==2.0.12
+  986  pip install cryptography==36.0.1
+  987  pip install Django==4.0.2
+  988  pip install Django
+  989  pip uninstall Django
+  990  pip install Django==4.0.2
+  991  pip install Django
+  992  pip install pyhton
+  993  pip install python
+  994  pip install python3
+  995  python3 --version
+  996  pip install Django
+  997  pip install clang
+  998  pip install Django
+  999  pip install -r requirements.txt
+ 1000  pip install Django
+ 1001  cd ..
+ 1002  ls
+ 1003  cd ..
+ 1004  python3 -m venv venv-career-env
+ 1005  source /Users/divyankgoyal/code_bards/venv-career-env/bin/activate
+ 1006  cd career-tools-master
+ 1007  ls
+ 1008  pip install Django
+ 1009  /Users/divyankgoyal/code_bards/venv-career-env/bin/python3 -m pip install --upgrade pip
+ 1010  pip install Django
+ 1011  pip install pyhton
+ 1012  pip install python3
+ 1013  brew install python
+ 1014  brew install python3
+ 1015  pip reinstall python3
+ 1016  brew reinstall python3
+ 1017  pip install Django
+ 1018  pip reinstall django
+ 1019  pip install django
+ 1020  python3 --version
+ 1021  python --version
+ 1022  pip install django
+ 1023  python3
+ 1024  pip3 install djnago
+ 1025  pip3 install django
+ 1026  brew install django
+ 1027  python --version
+ 1028  python3 --version
+ 1029  pip uninstall python==2.7.18
+ 1030  pip uninstall python
+ 1031  pip uninstall python2.7.18
+ 1032  python3 --version
+ 1033  python --version
+ 1034  pip install django
+ 1035  pip reinstall python3
+ 1036  pip uninstall python3
+ 1037  brew uninstall python3
+ 1038  brew uninstall python
+ 1039  brew install python3
+ 1040  brew install django
+ 1041  pip install django
+ 1042  ls
+ 1043  cd codebase
+ 1044  source venv-uplevel/bin/activate
+ 1045  pip install django
+ 1046  cd ..
+ 1047  ls
+ 1048  ls -a
+ 1049  vim .zshrc
+ 1050  python --version
+ 1051  python3 version
+ 1052  python3 --version
+ 1053  pip install python3==3.8
+ 1054  pip install python==3.8
+ 1055  brew install pyhton==3.8
+ 1056  pip install django
+ 1057  vim .zshrc
+ 1058  brew install python@3.8
+ 1059  python3 --version
+ 1060  sudo apt install libpython3.10-dev
+ 1061  brew install libpython3.10-dev
+ 1062  pip install libpython3.10-dev
+ 1063  pip install libpython@3.10-dev
+ 1064  brew install libpython@3.10-dev
+ 1065  brew install libpython@3.8-dev
+ 1066  ls
+ 1067  vim .zshrc
+ 1068  pip install django
+ 1069  where python3
+ 1070  where python@3.8
+ 1071  where python==3.8
+ 1072  where python3.8
+ 1073  brew uninstall python@3.10.8
+ 1074  brew uninstall python@3.10
+ 1075  python3 --version
+ 1076  pip install django
+ 1077  where python3.8
+ 1078  gcc -shared -o sample.so sample.c -framework Python\n
+ 1079  g++-12 --version
+ 1080  cd career-tools-master
+ 1081  pip uninstall -r requirements.txt
+ 1082  cd ..
+ 1083  ls
+ 1084  source venv-career-env
+ 1085  source venv-career-env/bin/active
+ 1086  ls
+ 1087  cd ..
+ 1088  venv-career-env/bin/active
+ 1089  ls
+ 1090  cd career-tools-master
+ 1091  pip install django
+ 1092  install pyproject.toml-based
+ 1093  pip install django
+ 1094  ls
+ 1095  cd code_bards
+ 1096  ls
+ 1097  cd career-tools-master
+ 1098  cd ..
+ 1099  source venv-career-env/bin/active
+ 1100  cd career-tools-master
+ 1101  cd ..
+ 1102  source venv-career-env/bin/activate
+ 1103  cd career-tools-master
+ 1104  ls
+ 1105  pip install django
+ 1106  pip install pyproject.toml
+ 1107  pip install django
+ 1108  pip install pyproject.toml-based
+ 1109  pip install python@3.8
+ 1110  brew install python@3.8
+ 1111  pip install django
+ 1112  ls
+ 1113  cd ../..
+ 1114  ls
+ 1115  vim .zshrc
+ 1116  where python.h
+ 1117  where Python.h
+ 1118  pip install Python.h
+ 1119  pip install Python3.h
+ 1120  pip3 install Python3.h
+ 1121  pip3 install Python.h
+ 1122  python3 -V
+ 1123  pip unistall brew
+ 1124  pip uninstall brew
+ 1125  pip uninstall python3
+ 1126  pip uninstall python3.8
+ 1127  python3 -V
+ 1128  pip uninstall python3.8.9
+ 1129  pip uninstall Python3.8.9
+ 1130  pip install Python3.8.9
+ 1131  pip uninstall Python@3.8.9
+ 1132  pip uninstall python@3.8.9
+ 1133  pip uninstall python@3.8
+ 1134  pip uninstall python3.8
+ 1135  cd ../..
+ 1136  ls
+ 1137  cd Users
+ 1138  cd
+ 1139  ls
+ 1140  ls -a
+ 1141  vim .zshrc
+ 1142  python3 -V
+ 1143  where Python3
+ 1144  source .zshrc
+ 1145  ls
+ 1146  python3 -V
+ 1147  where Python3
+ 1148  source .zshrc
+ 1149  where Python3
+ 1150  python3 -V
+ 1151  where Python3
+ 1152  sudo rm /usr/bin/python
+ 1153  sudo rm /usr/bin/python3
+ 1154  python3 -V
+ 1155  pip install django
+ 1156  pip3 install django
+ 1157  python3 -m pip install --user --upgrade pip
+ 1158  python3
+ 1159  ls
+ 1160  vim .zshrc
+ 1161  where pip
+ 1162  where pip3
+ 1163  pip3 install django
+ 1164  cd code_bards
+ 1165  source venv-career-env/bin/activate
+ 1166  pip3 install django
+ 1167  pip3 -V
+ 1168  python3 -m venv virtual
+ 1169  source virtual/bin/active
+ 1170  source virtual/bin/activate
+ 1171  pip3 install django
+ 1172  pip install django
+ 1173  python -V
+ 1174  python3 -V
+ 1175  pip3 install djangoV
+ 1176  /Library/Developer/CommandLineTools/usr/bin/python3 -m pip install --upgrade pip
+ 1177  pip install django
+ 1178  ls
+ 1179  cd ..
+ 1180  ls
+ 1181  cd career-tools-master
+ 1182  ls
+ 1183  cd ..
+ 1184  ls
+ 1185  source venv-career-env/bin/activate
+ 1186  cd career-tools-master
+ 1187  pip install django
+ 1188  pip3 install django
+ 1189  python3 -V
+ 1190  cd ..
+ 1191  ls
+ 1192  cd ..
+ 1193  vim .zshrc
+ 1194  export pyhtonpath
+ 1195  pip3 install django
+ 1196  ls
+ 1197  cd ..
+ 1198  source venv-career-env/bin/activate
+ 1199  pip3 install django
+ 1200  pip install django
+ 1201  python3 -m pip install --user --upgrade pip
+ 1202  where python3
+ 1203  export path=/usr/bin/python3
+ 1204  export path="/usr/bin/python3"
+ 1205  ls
+ 1206  vim .zshrc
+ 1207  ls
+ 1208  cd code_bards
+ 1209  source venv-career-env/bin/activate
+ 1210  cd..
+ 1211  cd code_bards
+ 1212  python3 -m venv virtaul-env
+ 1213  source virtaul-env/bin/activate
+ 1214  pip install django
+ 1215  pip3 install django
+ 1216  /Users/divyankgoyal/code_bards/virtaul-env/bin/python3 -m pip install --upgrade pip
+ 1217  pip3 install django
+ 1218  pip install django
+ 1219  pip uninstall django
+ 1220  pip install django
+ 1221  pip install django==4.0.2
+ 1222  pip install django
+ 1223  pip install backports.zoneinfo
+ 1224  pip install django
+ 1225  where django
+ 1226  django --version
+ 1227  pip uninstall django
+ 1228  pip uninstall python
+ 1229  pip uninstall python3
+ 1230  python3 --version
+ 1231  pip install django
+ 1232  pip uninstall django
+ 1233  ls
+ 1234  python3 --version
+ 1235  pip uninstall django
+ 1236  pip install django
+ 1237  pip install python@3.8
+ 1238  pip install python
+ 1239  python --version
+ 1240  pip install django
+ 1241  django --version
+ 1242  django-4.1.2 --version
+ 1243  python3 -m venv virtual-test
+ 1244  source virtual-test/bin/activate
+ 1245  python3 --version
+ 1246  pip install django
+ 1247  /Users/divyankgoyal/virtual-test/bin/python3 -m pip install --upgrade pip
+ 1248  pip install django
+ 1249  pip install python
+ 1250  python -m django –version
+ 1251  pip install python
+ 1252  pip install django
+ 1253  python -m django –version
+ 1254  python3 -m django –version
+ 1255  python3 -m django help
+ 1256  python3 -m django check
+ 1257  pip uninstall django
+ 1258  import django
+ 1259  django-admin
+ 1260  pip install django
+ 1261  python -V
+ 1262  python3 -V
+ 1263  ls
+ 1264  ls -a
+ 1265  vim .zshrc
+ 1266  pip install django
+ 1267  python3 -m venv vvenv
+ 1268  ls
+ 1269  source vvenv/bin/activate
+ 1270  cd vvenv
+ 1271  ls
+ 1272  python3 -V
+ 1273  brew install python@3.8
+ 1274  brew reinstall python@3.8
+ 1275  brew uninstall python
+ 1276  brew uninstall python3
+ 1277  brew uninstall python@3.8
+ 1278  python3 -V
+ 1279  brew uninstall python@3.8
+ 1280  where python3
+ 1281  /usr/bin/python3 ; exit;
+ 1282  brew install python@3.8
+ 1283  python3 -V
+ 1284  brew install python@3.8
+ 1285  brew reinstall python@3.8
+ 1286  python3 -V
+ 1287  pip install django
+ 1288  pip reinstall django
+ 1289  pip reinstall python3
+ 1290  pip reinstall python@3.8
+ 1291  pip install python@3.8
+ 1292  pip install python
+ 1293  pip install django
+ 1294  pip install python@3.8
+ 1295  python -m pip install django
+ 1296  python3 -m pip install django
+ 1297  pip install python-dev
+ 1298  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+ 1299  source vvenv/bin/activate
+ 1300  python -m pip install Django
+ 1301  python -m ensurepip --upgrade
+ 1302  python -m pip install Django
+ 1303  python get-pip.py
+ 1304  python -m pip install Django
+ 1305  python3 -V
+ 1306  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+ 1307  source vvenv/bin/activate
+ 1308  python3 -V
+ 1309  pip install django
+ 1310  source vvenv/bin/activate
+ 1311  pip install django
+ 1312  python3 -V
+ 1313  source vvenv/bin/activate
+ 1314  pip install django
+ 1315  pkgutil --pkgs # list all installed packages
+ 1316  brew list
+ 1317  pip uninstall gcc@11
+ 1318  brew uninstall gcc@11
+ 1319  brew uninstall g++@11
+ 1320  source vvenv/bin/activate
+ 1321  pip install django
+ 1322  /Users/divyankgoyal/vvenv/bin/python3 -m pip install --upgrade pip
+ 1323  pip install django
+ 1324  pip install panda
+ 1325  pip install django
+ 1326  pip install pandas
+ 1327  pip install django
+ 1328  pip install django==2.0.2
+ 1329  pip install django==4.0.2
+ 1330  pip install django
+ 1331  pip uninstall django
+ 1332  pip install django
+ 1333  export C_INCLUDE_PATH=/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/Headers~
+ 1334  pip install backports.zoneinfo
+ 1335  ls -a
+ 1336  vim .zshrc
+ 1337  source .zshrce
+ 1338  source .zshrc
+ 1339  source vvenv/bin/activate
+ 1340  pip install backports.zoneinfo
+ 1341  pip install django==4.0.2
+ 1342  source vvenv/bin/activate
+ 1343  pip install django
+ 1344  pip uninstall django
+ 1345  pip install django
+ 1346  /Users/divyankgoyal/Desktop/python3\ 12.07.12\ AM ; exit;
+ 1347  ls
+ 1348  cd career-tools-master
+ 1349  ls
+ 1350  vim requirements.txt
+ 1351  pwd
+ 1352  ls
+ 1353  python3 -m venv vvenv
+ 1354  source vvenv/bin/activate
+ 1355  cd career-tools-master
+ 1356  ls
+ 1357  pip install -r requirements.txt
+ 1358  /Users/divyankgoyal/codebards/vvenv/bin/python3 -m pip install --upgrade pip
+ 1359  pip install -r requirements.txt
+ 1360  python3 manage.py runserver
+ 1361  bash run_prod_server.sh
+ 1362  python3 manage.py runserver 0.0.0.0:8000 --settings=career_tools.settings.production
+ 1363  python3 manage.py
+ 1364  python3 manage.py createsuperuser
+ 1365  python manage.py createsuperuser
+ 1366  python manage.py
+ 1367  python3 manage.py
+ 1368  python3 manage.py migrate
+ 1369  python3 manage.py runserver 0.0.0.0:8000 --settings=career_tools.settings.production
+ 1370  python3 manage.py
+ 1371  python3 manage.py makemigrations
+ 1372  python3 manage.py dbshell
+ 1373  python3 manage.py migrate
+ 1374  python3 manage.py runserver 0.0.0.0:8000 --settings=career_tools.settings.production
+ 1375  python manage.py migrate
+ 1376  python manage.py makemigrations
+ 1377  python3 manage.py runserver 0.0.0.0:8000 --settings=career_tools.settings.production
+ 1378  python manage.py makemigrations
+ 1379  python manage.py migrate
+ 1380  python manage.py
+ 1381  python manage.py migrate
+ 1382  pd
+ 1383  pwd
+ 1384  cd ..
+ 1385  ls
+ 1386  source vvenv/bin/activate
+ 1387  cd career-tools-master
+ 1388  python manage.py migrate
+ 1389  ls
+ 1390  cd career-tools
+ 1391  cd career_tools
+ 1392  ls
+ 1393  pwd
+ 1394  cd ..
+ 1395  ls
+ 1396  python manage.py migrate
+ 1397  python manage.py makemigrations
+ 1398  python manage.py migrate
+ 1399  python manage.py makemigrations
+ 1400  cd ..
+ 1401  source vvenv/bin/activate
+ 1402  cd career-tools-master
+ 1403  python manage.py makemigrations
+ 1404  python manage.py migrate
+ 1405  source vvenv/bin/activate
+ 1406  cd ..
+ 1407  source vvenv/bin/activate
+ 1408  cd career-tools-master
+ 1409  python manage.py migrate
+ 1410  python3.9 manage.py runserver 0.0.0.0:8000 --settings=career_tools.settings.production
+ 1411  python3.8 manage.py runserver 0.0.0.0:8000 --settings=career_tools.settings.production
+ 1412  bash run_prod_server.sh
+ 1413  pip3.8 install -r requirements.txt
+ 1414  pipinstall -r requirements.txt
+ 1415  pip install -r requirements.txt
+ 1416  python3.8 manage.py runserver 0.0.0.0:8000 --settings=career_tools.settings.production
+ 1417  cd
+ 1418  cd codebards
+ 1419  git init
+ 1420  cd ..
+ 1421  source vvenv/bin/activate
+ 1422  python3.8 manage.py runserver 0.0.0.0:8000 --settings=career_tools.settings.production
+ 1423  cd career-tools-master
+ 1424  python3.8 manage.py runserver 0.0.0.0:8000 --settings=career_tools.settings.production
+ 1425  cd codebards
+ 1426  ls
+ 1427  git init
+ 1428  source vvenv/bin/activate
+ 1429  ls
+ 1430  python3 -m venv vvenv
+ 1431  source vvenv/bin/activate
+ 1432  cd codebards
+ 1433  cd career-tools-master
+ 1434  bash run_prod_server.sh
+ 1435  python3 --upgrade
+ 1436  python3 -h
+ 1437  brew install python@3.9
+ 1438  bash run_prod_server.sh
+ 1439  python3 manage.py createsuperuser
+ 1440  python3 manage.py
+ 1441  bash run_prod_server.sh
+ 1442  python3.9 manage.py
+ 1443  python3.9 manage.py createsuperuser
+ 1444  python3 --version
+ 1445  python3.9 --version
+ 1446  brew install python@3.9
+ 1447  python3 --version
+ 1448  python3.9 manage.py createsuperuser 0.0.0.0:8000 --settings=career_tools.settings.production
+ 1449  python3.9 manage.py createsuperuser --settings=career_tools.settings.production
+ 1450  python3.9 manage.py runserver 0.0.0.0:8000 --settings=career_tools.settings.production\n
+ 1451  bash run_prod_server.sh
+ 1452  ls
+ 1453  cd codebards
+ 1454  ls -a
+ 1455  git status
+ 1456  git add .
+ 1457  git status
+ 1458  git commit -m "first-commit"
+ 1459  bash run_prod_server.sh
+ 1460  pip install -r requirements.txt
+ 1461  source /Users/divyankgoyal/codebards/vvenv/bin/activate
+ 1462  ls
+ 1463  cd career-tools-master
+ 1464  python3.9 manage.py
+ 1465  source /Users/divyankgoyal/codebards/vvenv/bin/activate
+ 1466  /Users/divyankgoyal/codebards/vvenv/bin/python3 -m pip install --upgrade pip
+ 1467  pip3.9 install -r requirements.txt
+ 1468  pip --version
+ 1469  pip3.9 install -r requirements.txt
+ 1470  python3.9 manage.py runserver 0.0.0.0:8000 --settings=career_tools.settings.production
+ 1471  pip3.9 install -r requirements.txt
+ 1472  django-admin
+ 1473  source /Users/divyankgoyal/codebards/vvenv/bin/activate
+ 1474  cd career-tools-master
+ 1475  bash run_prod_server.sh
+ 1476  python3.9 manage.py migrate
+ 1477  python3.9 manage.py migrate --settings=career_tools.settings.production
+ 1478  python3.9 manage.py makemigrations
+ 1479  python3.9 manage.py runserver 0.0.0.0:8000 --settings=career_tools.settings.production\n
+ 1480  python3.9 manage.py
+ 1481  python3.9 manage.py makesuperuser
+ 1482  python3.9 manage.py makesuperuser --settings=career_tools.settings.production
+ 1483  python3.9 manage.py createsuperuser
+ 1484  python3.9 manage.py createsuperuser --settings=career_tools.settings.production
+ 1485  python3.9 manage.py runserver 0.0.0.0:8000 --settings=career_tools.settings.production\n
+ 1486  pip install -r requirements.txt
+ 1487  cd codebards
+ 1488  ls
+ 1489  ls -a
+ 1490  git add .
+ 1491  git status
+ 1492  git commit -m "second-commit(working code)"
+ 1493  source /Users/divyankgoyal/codebards/vvenv/bin/activate
+ 1494  cd career-tools-master
+ 1495  ls
+ 1496  python3 manage.py runserver
+ 1497  python3 --version
+ 1498  python3.9 --version
+ 1499  python3 manage.py createapp home
+ 1500  python3 manage.py
+ 1501  python3 manage.py startapp home
+ 1502  python3 manage.py startapp homes
+ 1503  ls
+ 1504  cd mkdir codebase-uplevel
+ 1505  mkdir codebase-uplevel
+ 1506  cd codebase-uplevel
+ 1507  git clone https://gitlab.com/codebards/uplevel.git
+ 1508  python3 -m venv venv-uplevel
+ 1509  source venv-uplevel/bin/activate
+ 1510  brew install mysql
+ 1511  brew install mysql-connector-c\n
+ 1512  pre-commit install
+ 1513  pip install pre-commit
+ 1514  /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/python3 -m pip install --upgrade pip
+ 1515  pip install -r requirements.txt
+ 1516  ls
+ 1517  cd uplevel
+ 1518  pip install -r requirements.txt
+ 1519  mysql -u root -p
+ 1520  ls
+ 1521  cd uplevel
+ 1522  ls
+ 1523  ls -a
+ 1524  cd ..
+ 1525  mysql -uroot -p uplevel < ~/Downloads/uplevel.sql
+ 1526  ./manage.py runserver
+ 1527  cd uplevel
+ 1528  ls -a
+ 1529  cd ..
+ 1530  ./manage.py runserver
+ 1531  source venv-uplevel/bin/activate
+ 1532  cd uplevel
+ 1533  python3 manage.py
+ 1534  python3 manage.py runserver
+ 1535  python3 manage.py
+ 1536  ls
+ 1537  cd uplevel
+ 1538  cp .env.example .env
+ 1539  cd uplevel
+ 1540  cd ..
+ 1541  ./manage.py runserver
+ 1542  ./manage.py
+ 1543  pip install silk
+ 1544  ./manage.py
+ 1545  source venv-uplevel/bin/activate
+ 1546  cd uplevel
+ 1547  ./manage.py
+ 1548  ./manage.py runserver
+ 1549  source venv-uplevel/bin/activate
+ 1550  cd uplevel
+ 1551  ./manage.py runserver
+ 1552  source venv-uplevel/bin/activate
+ 1553  cd uplevel
+ 1554  ./manage.py runserver
+ 1555  source /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/activate
+ 1556  cd uplevel
+ 1557  ls
+ 1558  pip install -r requirements.txt
+ 1559  ./manage.py runserver
+ 1560  ./manage.py
+ 1561  ./manage.py runserver
+ 1562  mysql -u root -p
+ 1563  mysql -uroot -p uplevel < ~/Downloads/uplevel.sql
+ 1564  mysql -u root -p uplevel < ~/Downloads/uplevel.sql
+ 1565  ls
+ 1566  mysql -u root
+ 1567  mysql -u root -p
+ 1568  source /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/activate
+ 1569  ls
+ 1570  cd uplevel
+ 1571  mysql -uroot -p uplevel < ~/Downloads/uplevel.sql
+ 1572  mysql.server start
+ 1573  mysql -uroot -p uplevel < ~/Downloads/uplevel.sql
+ 1574  mysql -uroot -p
+ 1575  source /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/activate
+ 1576  mysql -uroot -p uplevel < ~/Downloads/uplevel.sql
+ 1577  cd codebase-uplevel
+ 1578  source /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/activate
+ 1579  cd uplevel
+ 1580  mysql -uroot -p uplevel < ~/Downloads/uplevel.sql
+ 1581  mysql -uroot -p
+ 1582  mysql -uroot -p uplevel < ~/Downloads/uplevel.sql
+ 1583  ./manage.py runserver
+ 1584  mysql -uroot -p uplevel < ~/Downloads/uplevel.sql
+ 1585  source /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/activate
+ 1586  cd uplevel
+ 1587  cd ..
+ 1588  source /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/activate
+ 1589  cd uplevel
+ 1590  mysql -uroot -p uplevel < ~/Downloads/uplevel.sql
+ 1591  mysql -uroot -p uplevel < ~/Downloads/dump_uplevel.sql
+ 1592  mysql -uroot -p uplevel < ~/Downloads/uplevel_dump.sql
+ 1593  mysql -uroot -p uplevel < ~/Downloads/uplevel.sql
+ 1594  mysql -uroot -p uplevel < ~/Downloads/uplevel_dump.sql
+ 1595  ^[[200~mysql -uroot -p uplevel < ~/Downloads/uplevel.sql~
+ 1596  mysql -uroot -p uplevel < ~/Downloads/uplevel.sql
+ 1597  source /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/activate
+ 1598  source /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/deactivate
+ 1599  source /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/unactivate
+ 1600  pip install -r requirements.txt
+ 1601  source /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/unactivate
+ 1602  source /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/uctivate
+ 1603  source /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/activate
+ 1604  cd uplevel
+ 1605  pip install -r requirements.txt
+ 1606  python3 manage.py
+ 1607  python3 manage.py migrate
+ 1608  python3 manage.py
+ 1609  pip install django-silk==4.4.1
+ 1610  python3 manage.py
+ 1611  python3 manage.py runserver
+ 1612  python3 manage.py shell
+ 1613  python3 manage.py runserver
+ 1614  cd codebase-uplevel
+ 1615  source /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/activate
+ 1616  cd uplevel
+ 1617  python3 manage.py runserver
+ 1618  cd codebase-uplevel
+ 1619  source /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/activate
+ 1620  cd uplevel
+ 1621  mysql
+ 1622  mysql -uroot -p
+ 1623  ./manage.py runserver
+ 1624  ./manage.py makemigrations
+ 1625  ./manage.py migrage
+ 1626  ./manage.py migrate
+ 1627  ./manage.py runserver
+ 1628  ource /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/activate
+ 1629  upgrade_oh_my_zsh
+ 1630  source /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/activate
+ 1631  ls
+ 1632  git init
+ 1633  git status
+ 1634  git add .
+ 1635  git commit -m "first-commit(working code)"
+ 1636  cd uplevel
+ 1637  ./manage.py runserver
+ 1638  source /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/activate
+ 1639  ls
+ 1640  source /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/activate
+ 1641  pip install drf-yasg==1.17.1
+ 1642  pip install -r requirements.txt
+ 1643  cd uplevel
+ 1644  pip install -r requirements.txt
+ 1645  source /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/activate
+ 1646  cd uplevel
+ 1647  ./
+ 1648  ./manage.py runserver
+ 1649  source /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/activate
+ 1650  cd uplevel
+ 1651  mysql -uroot -p
+ 1652  ls -a
+ 1653  git log
+ 1654  ls
+ 1655  cd codebase-uplevel
+ 1656  code . -n
+ 1657  git status
+ 1658  cd uplevel
+ 1659  git init
+ 1660  git status
+ 1661  git log
+ 1662  cd ..
+ 1663  source /Users/divyankgoyal/codebase-uplevel/venv-uplevel/bin/activate
+ 1664  cd uplevel
+ 1665  pip install g++@11
+ 1666  /Library/Developer/CommandLineTools/usr/bin/python3 -m pip install --upgrade pip
+ 1667  pip install g++@11
+ 1668  brew install gcc@11
+ 1669  pip install pyastyle
+ 1670  java -V
+ 1671  pip install java
+ 1672  brew install java
+ 1673  java -V
+ 1674  java --version
+ 1675  java --V
+ 1676  where java
+ 1677  where mingw
+ 1678  where document
+ 1679  javac --version
+ 1680  java --V
+ 1681  java -V
+ 1682  java --version
+ 1683  javac --version
+ 1684  jre-8u65-macosx-x64
+ 1685  java install jre-8u65-macosx-x64
+ 1686  la
+ 1687  ls
+ 1688  cd dow
+ 1689  cd Downloads
+ 1690  ls
+ 1691  cd apache-zookeeper-3.5.10
+ 1692  cd bin
+ 1693  ls
+ 1694  zkServer.sh
+ 1695  /Users/divyankgoyal/Downloads/apache-zookeeper-3.5.10/bin/zkServer.sh; exit
+ 1696  zkServer.sh
+ 1697  run zkServer.sh
+ 1698  zkServer.sh start-foreground
+ 1699  ./zkServer.sh start-foreground
+ 1700  ./zkServer.sh
+ 1701  ./zkServer.sh start
+ 1702  ls -al ~/
+ 1703  ls -a
+ 1704  ls -al
+ 1705  ls -al ~/ ~/
+ 1706  ssh-keygen -t RSA -b 2048 -C <your_email>
+ 1707  ssh-keygen -t RSA -b 2048 -C divyank@interviewkickstart.com
+ 1708  $ cat ~/.ssh/id_rsa.pub | clipcopy\n
+ 1709  cat ~/.ssh/id_rsa.pub | clipcopy\n
+ 1710  cat ~/.ssh/id_rsa.pub | clipcopy
+ 1711  mkdir codebase-uplevel-next
+ 1712  cd codebase-uplevel-next
+ 1713  git clone git@gitlab.com:codebards/uplevel-next.git
+ 1714  cat ~/.ssh/id_rsa.pub | clipcopy
+ 1715  git clone git@gitlab.com:codebards/uplevel-next.git
+ 1716  cd uplevel
+ 1717  ls
+ 1718  cd uplevel-next
+ 1719  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | sh
+ 1720  source ~/.zshrc
+ 1721  nvm use
+ 1722  nvm install v18.4.0
+ 1723  nvm use
+ 1724  npm i -g yarn
+ 1725  yarn
+ 1726  brew install nginx
+ 1727  brew services restart nginx
+ 1728  sudo service nginx restart
+ 1729  sudo services nginx restart
+ 1730  sudo service nginx restart
+ 1731  brew services nginx restart
+ 1732  yarn dev
+ 1733  cd uplevel-next
+ 1734  cd codebase-uplevel-next
+ 1735  cd uplevel-next
+ 1736  yarn dev
+ 1737  npm start
+ 1738  npm run dev
+ 1739  cd codebase-uplevel
+ 1740  source venv-uplevel/bin/activate
+ 1741  cd uplevel
+ 1742  ./manage.py runserver
+ 1743  mysql.server start
+ 1744  ./manage.py runserver
+ 1745  yarn dev
+ 1746  ls
+ 1747  pwd
+ 1748  cd codebase-uplevel-next
+ 1749  cd uplevel-next
+ 1750  yarn dev
+ 1751  yarn
+ 1752  yarn dev
+ 1753  npm i -g yarn
+ 1754  yarn dev
+ 1755  nvm use
+ 1756  yarn dev
+ 1757  sudo brew services info --all
+ 1758  sudo brew services start nginx
+ 1759  sudo brew services info --all
+ 1760  yarn dev
+ 1761  mysql.server start
+ 1762  sudo brew services info --all
+ 1763  brew services start mysql
+ 1764  sudo brew services info --all
+ 1765  sudo service nginx restart
+ 1766  sudo services nginx restart
+ 1767  services nginx restart
+ 1768  service nginx restart
+ 1769  sudo brew nginx start
+ 1770  nginx -t
+ 1771  vim /opt/homebrew/etc/nginx/nginx.conf
+ 1772  mkdir /usr/local/var/log
+ 1773  mkdir /usr/local/var/
+ 1774  sudo mkdir /usr/local/var/
+ 1775  sudo mkdir /usr/local/var/log
+ 1776  nginx -t
+ 1777  sudo chmod -R 777 /usr/local/var/log/
+ 1778  sudo chmod 777 /opt/homebrew/var/run/nginx.pid
+ 1779  nginx -t
+ 1780  sudo brew nginx restart
+ 1781  sudo brew services restart nginx
+ 1782  sudo brew services info --all
+ 1783  sudo brew services restart mysql
+ 1784  sudo brew services info --all
+ 1785  yarn dev
+ 1786  node -V
+ 1787  node --version
+ 1788  vim /opt/homebrew/etc/nginx/nginx.conf
+ 1789  nginx -t
+ 1790  brew services start nginx
+ 1791  brew services stop nginx
+ 1792  brew services start nginx
+ 1793  nginx -t
+ 1794  brew services info --all
+ 1795  sudo brew services info --all
+ 1796  yarn dev
+ 1797  brew services start mysql
+ 1798  brew services stop mysql
+ 1799  brew services start mysql
+ 1800  sudo brew services info --all
+ 1801  brew services info --all
+ 1802  history
+ 1803  yarn dev
+ 1804  history
+ 1805  cd codebase-uplevel-next
+ 1806  git init
+ 1807  yarn dev
+ 1808  cd uplevel-next
+ 1809  yarn dev
+ 1810  cd codebase-uplevel-next
+ 1811  ls -a
+ 1812  git status
+ 1813  git add .
+ 1814  git status
+ 1815  git commit -m "first-commit(working code)"
+ 1816  cd uplevel-next
+ 1817  ls -a
+ 1818  git ini
+ 1819  git init
+ 1820  git status
+ 1821  cd uplevel-next
+ 1822  git status
+ 1823  cd uplevel-next
+ 1824  cd uplevel
+ 1825  git status
+ 1826  git init
+ 1827  git add .
+ 1828  git commit -m "first-commit(working code)"
+ 1829  cd codebase-uplevel
+ 1830  ls -a
+ 1831  git status
+ 1832  cd ..
+ 1833  cd codebards/
+ 1834  ls -a
+ 1835  git status
+ 1836  ls
+ 1837  git status
+ 1838  git add .
+ 1839  git status
+ 1840  git add .
+ 1841  git status
+ 1842  history
+ 1843  yarn dev
+ 1844  ls
+ 1845  cd uplevel
+ 1846  cd uplevel-next
+ 1847  git status
+ 1848  git add .
+ 1849  git status
+ 1850  git commit -m "Second-commit(4-Changes done)"
+ 1851  cd ..
+ 1852  cd..
+ 1853  cd ..
+ 1854  ls
+ 1855  cd desktop
+ 1856  cd PeerCode-master
+ 1857  ls
+ 1858  npm run dev
+ 1859  npm start
+ 1860  npm install
+ 1861  npm start
+ 1862  npm run dev
+ 1863  npm run
+ 1864  npm start
+ 1865  npm install
+ 1866  npm audit fix
+ 1867  npm start
+ 1868  npm run dev
+ 1869  npm start
+ 1870  react-scripts start
+ 1871  npm client start
+ 1872  cd client
+ 1873  npm start
+ 1874  yarn dev
+ 1875  g++ --version
+ 1876  g++11 --version
+ 1877  g++-11 --version
+ 1878  cd codebase-uplevel
+ 1879  source venv-uplevel/bin/activate
+ 1880  cd uplevel
+ 1881  ./manage.py runserver
+ 1882  cd codebase-uplevel-next
+ 1883  cd uplevel-next
+ 1884  history
+ 1885  sudo brew services info --all
+ 1886  yarn dev
+ 1887  ./manage.py runserver
+ 1888  yarn dev
+ 1889  ./manage.py runserver
+ 1890  yarn dev
+ 1891  history
+ 1892  yarn dev
+ 1893  cd codebase-uplevel-next
+ 1894  cd uplevel-next
+ 1895  git status
+ 1896  git add .
+ 1897  git commit -m "Commit on 16th nov (working code)"
+ 1898  git log
+ 1899  git checkout 4f35ae35bfcc50a269ab56c51be8a1f56a57b07c
+ 1900  git statis
+ 1901  git status
+ 1902  git log
+ 1903  git checkout 01797d92174dad677b62af7b7d464d91a3d212fe
+ 1904  git status
+ 1905  git log
+ 1906  git status
+ 1907  git checkout 4f35ae35
+ 1908  git log
+ 1909  git checkout 01797d92
+ 1910  git checkout 4f35ae35
+ 1911  git log
+ 1912  git show
+ 1913  git rev-parse HEAD
+ 1914  git log
+ 1915  git log -1
+ 1916  git log | head -n 1
+ 1917  git show-ref --head
+ 1918  clear
+ 1919  git branch
+ 1920  git branch -a
+ 1921  git branch -r
+ 1922  git branch
+ 1923  git branch FRON-517
+ 1924  git checkout FRON-517
+ 1925  git add .
+ 1926  git status
+ 1927  git commit -m "FRON-517 changes in AapTour Design"
+ 1928  git push
+ 1929  git push --set-upstream origin FRON-517
+ 1930  git log
+ 1931  git status
+ 1932  git commit -m "FRON-517 changes in AapTour Design"
+ 1933  git commit -m"FRON-517 changes in AapTour Design"
+ 1934  git commit -m"FRON-517 changes in AapTour Design" --allow-empty
+ 1935  git commit -m "FRON-517 changes in AapTour Design"
+ 1936  git commit -m "FRON-517: changes in AapTour Design"
+ 1937  git branch
+ 1938  git status
+ 1939  git commit -m "FRON-517: changes in AapTour Design" --allow-empty
+ 1940  git add .
+ 1941  git status
+ 1942  git commit -m "FRON-517: changes in AapTour Design" --allow-empty
+ 1943  git commit --allow-empty -m "FRON-517: changes in AapTour Design"
+ 1944  clear
+ 1945  cd codebase-uplevel-next
+ 1946  cd uplevel-next
+ 1947  git commit --allow-empty -m "FRON-517: changes in AapTour Design"
+ 1948  git log
+ 1949  git commit --allow-empty -m "FRON-517: changes in AapTour Design"
+ 1950  git commit -m "FRON-517: changes in AapTour Design"
+ 1951  git status
+ 1952  git log -1
+ 1953  git log --oneline 10
+ 1954  git log --oneline -10
+ 1955  git commit -m "FRON-517: changes in AapTour Design" -n
+ 1956  git reset --soft HEAD~3
+ 1957  git status
+ 1958  git restore --staged ..vscode/settings.json
+ 1959  git restore --staged .vscode/settings.json
+ 1960  git commit --amend --reset-author
+ 1961  git config --global user.name "Divyank Goyal"
+ 1962  git config --global user.email "divyank@interviewkickstart.com"
+ 1963  git status
+ 1964  git log
+ 1965  git config
+ 1966  git config --global user.name
+ 1967  git config --global user.email
+ 1968  git push
+ 1969  git push --set-upstream origin FRON-517--set-upstream origin FRON-517
+ 1970  git push --set-upstream origin FRON-517
+ 1971  git status
+ 1972  git add .
+ 1973  git commit -m "FROM-517: AppTour"
+ 1974  git log
+ 1975  git checkout main
+ 1976  git pull
+ 1977  git branch
+ 1978  git pull --rebase origin main
+ 1979  git bramch -D FRON-517
+ 1980  git branch -D FRON-517
+ 1981  git checkout FRON-517
+ 1982  git bramch FRON-517
+ 1983  git branch FRON-517
+ 1984  git checkout FRON-517
+ 1985  git checkout main
+ 1986  git pull
+ 1987  git checkout -b FRON-517
+ 1988  git branch -D FRON-517
+ 1989  git checkout -b FRON-517
+ 1990  git log
+ 1991  git reset --soft HEAD~2
+ 1992  git status
+ 1993  git restore --staged .vscode/settings.json
+ 1994  git add .
+ 1995  git commit -m "FROM-517: AppTour"
+ 1996  git log
+ 1997  git push
+ 1998  git push --set-upstream origin FRON-517
+ 1999  git commit --amend
+ 2000  git push --set-upstream origin FRON-517
+ 2001  yarn test upComponents/AppTour
+ 2002  yarn dev
+ 2003  git add .
+ 2004  git commit -m "(fix) FRON-517: Cosmetic Changes"
+ 2005  ./manage.py shell
+ 2006  ./manage.py runserver
+ 2007  yarn dev
+ 2008  history
+ 2009  ls
+ 2010  cd de
+ 2011  cd Desktop
+ 2012  cd "C++ compiler\n"
+ 2013  cd "C++ compiler"\n"
+ 2014  ls
+ 2015  cd C++\ compiler
+ 2016  g++ file.cpp
+ 2017  /opt/homebrew/bin/g++-11  file.cpp
+ 2018  file
+ 2019  /opt/homebrew/bin/g++-11 file.cpp
+ 2020  ./file
+ 2021  ./file.exe
+ 2022  ls
+ 2023  a.out
+ 2024  ./a.out
+ 2025  /opt/homebrew/bin/g++-11 file.cpp
+ 2026  ./a.out
+ 2027  /opt/homebrew/bin/g++-11 file.cpp
+ 2028  ./a.out
+ 2029  /opt/homebrew/bin/g++-11 file.cpp
+ 2030  ./a.out
+ 2031  /opt/homebrew/bin/g++-11 file.cpp
+ 2032  ./a.out
+ 2033  /opt/homebrew/bin/g++-11 file.cpp
+ 2034  ./a.out
+ 2035  /opt/homebrew/bin/g++-11 file.cpp
+ 2036  ./a.out
+ 2037  cd Desktop
+ 2038  mkdir Placemnt_portal
+ 2039  cd Placemnt_portal
+ 2040  cd Desktop
+ 2041  mkdir Placemnt_portal
+ 2042  ls
+ 2043  cd Placemnt_portal
+ 2044  ls
+ 2045  ls -a
+ 2046  git clone https://github.com/kousikr26/placement-portal.git
+ 2047  git inti
+ 2048  git init
+ 2049  history
+ 2050  pip install -r requirements.txt
+ 2051  cd Desktop/
+ 2052  cd Placemnt_portal
+ 2053  cd placement-portal
+ 2054  pip install -r requirements.txt
+ 2055  python3 manage.py runserver
+ 2056  cd ..
+ 2057  python3 -m venv venv-portal
+ 2058  source venv-portal/bin/activate
+ 2059  cd placement-portal
+ 2060  pip install -r requirements.txt
+ 2061  /Users/divyankgoyal/Desktop/Placemnt_portal/venv-portal/bin/python3 -m pip install --upgrade pip
+ 2062  pip install -r requirements.txt
+ 2063  python3 manage.py runserver
+ 2064  pip install -r requirements.txt
+ 2065  python3 manage.py runserver
+ 2066  source pp-env/bin/activate
+ 2067  python3 manage.py runserver
+ 2068  pip install -r requirements.txt
+ 2069  python3 manage.py runserver
+ 2070  cd ..
+ 2071  cd ..
+ 2072  ls
+ 2073  cd ..
+ 2074  cd codebase-uplevel-next
+ 2075  ls
+ 2076  ls -a
+ 2077  cd ..
+ 2078  ls
+ 2079  cd codebase-uplevel-next
+ 2080  ls
+ 2081  ls -a
+ 2082  source venv-uplevel/bin/activate
+ 2083  cd ..
+ 2084  cd uplevel-next
+ 2085  cd ..
+ 2086  cd codebase-uplevel
+ 2087  source venv-uplevel/bin/activate
+ 2088  cd ..
+ 2089  ls
+ 2090  cd divyankgoyal
+ 2091  cd Desktop
+ 2092  cd Placemnt_portal
+ 2093  ls
+ 2094  cd placement-portal
+ 2095  python3 manage.py runserver
+ 2096  python3 -m pip install bootstrap4
+ 2097  python3 manage.py runserver
+ 2098  pip3 install django-widget-tweaks
+ 2099  python3 manage.py runserver
+ 2100  python3 manage.py makemigrations
+ 2101  python3 manage.py
+ 2102  python3 manage.py migrate
+ 2103  mysql.server start
+ 2104  python3 manage.py migrate
+ 2105  python3 manage.py makemigrate
+ 2106  python3 manage.py makemigration
+ 2107  python3 manage.py
+ 2108  cd ..
+ 2109  cd placement-portal
+ 2110  source pp-env/bin/activate
+ 2111  python3 manage.py
+ 2112  python3 manage.py makemigration
+ 2113  ls
+ 2114  python3 manage.py makemigrations
+ 2115  python3 manage.py makemigration
+ 2116  python3 manage.py makemigrations
+ 2117  python3 manage.py runserver
+ 2118  git log
+ 2119  git checkout ac15d0406e6de7f59f571a994af80d8eb951fbcb
+ 2120  createdb hb
+ 2121  python3 createdb hb
+ 2122  CREATE DATABASE data
+ 2123  mysql -uroot -p
+ 2124  python3 manage.py runserver
+ 2125  git checkout ac15d0406e6de7f59f571a994af80d8eb951fbcb
+ 2126  python3 manage.py runserver
+ 2127  cd desktop
+ 2128  cd placement-portal
+ 2129  cd Placemnt_portal
+ 2130  git clone https://github.com/Pankajtanwarbanna/PlacementMNIT.git
+ 2131  cd PlacementMNIT
+ 2132  npm run dev
+ 2133  npm start
+ 2134  npm i
+ 2135  PORT=8080 node server.js
+ 2136  git init
+ 2137  PORT=8080 node server.js
+ 2138  git init
+ 2139  PORT=8080 node server.js
+ 2140  git status
+ 2141  git add .
+ 2142  git status
+ 2143  git commit -m "Added profilepic(workingcode)"
+ 2144  git status
+ 2145  git add .
+ 2146  git commit -m "Added contact us and developers(workingcode)"
+ 2147  ls -a
+ 2148  vim .zshrc
+ 2149  cd codebase-uplevel
+ 2150  ls
+ 2151  cd uplevel
+ 2152  git log
+ 2153  cd ..
+ 2154  cd codebase-uplevel-next
+ 2155  ls
+ 2156  cd uplevel-next
+ 2157  git log
+ 2158  git commit -m "Added contact us and developers(workingcode)"
+ 2159  git add .
+ 2160  git commit -m "Added contact us and developers(workingcode)"
+ 2161  git log
+ 2162  git checkout f1cde6419610d30832f0a255d62c1bc1aa7f008b
+ 2163  git log
+ 2164  git checkout a7
+ 2165  git log
+ 2166  git checkout a72d43
+ 2167  git log
+ 2168  git log --oneline -10
+ 2169  git log
+ 2170  git branch la
+ 2171  git branch ls
+ 2172  git init
+ 2173  ls
+ 2174  git add .
+ 2175  git commit -m "First Commit"
+ 2176  git status
+ 2177  npm run dev
+ 2178  npm start
+ 2179  npm run dev
+ 2180  cd client
+ 2181  npm start
+ 2182  npm i
+ 2183  npm start
+ 2184  cd client
+ 2185  npm start
+ 2186  cd desktop
+ 2187  cd C++\ compiler
+ 2188  ls
+ 2189  file
+ 2190  file.exe
+ 2191  a.out
+ 2192  g++ file.cpp
+ 2193  /opt/homebrew/bin/g++-11 file.cpp
+ 2194  a.out
+ 2195  file
+ 2196  ./file
+ 2197  ./file.exe
+ 2198  ./file
+ 2199  ./a.out
+ 2200  /opt/homebrew/bin/g++-11 file.cpp
+ 2201  ./a.out
+ 2202  /opt/homebrew/bin/g++-11 file.cpp
+ 2203  ./a.out
+ 2204  /opt/homebrew/bin/g++-11 file.cpp
+ 2205  ./a.out
+ 2206  /opt/homebrew/bin/g++-11 file.cpp
+ 2207  ./a.out
+ 2208  /opt/homebrew/bin/g++-11 file.cpp
+ 2209  ./a.out
+ 2210  cd desktop
+ 2211  cd C++\ compiler
+ 2212  /opt/homebrew/bin/g++-11 file.cpp
+ 2213  ./a.out
+ 2214  npm start
+ 2215  cd Desktop
+ 2216  cd github\ tut
+ 2217  cd ..
+ 2218  cd "github tut\n"
+ 2219  cd "github tut"\n"
+ 2220  cd 'github tut'\n"
+ 2221  cd github tut\n"
+ 2222  cd github\ tut\n"
+ 2223  cd github\ tut
+ 2224  cd ..
+ 2225  cd github\ tut
+ 2226  cd "github tut"
+ 2227  cd ..
+ 2228  cd "github tut"
+ 2229  git init
+ 2230  git status
+ 2231  git add file
+ 2232  git add "file - 1.txt"
+ 2233  git status
+ 2234  git commit -m "First Commit"
+ 2235  git branch
+ 2236  git branch -r
+ 2237  git branch -a
+ 2238  git log
+ 2239  git branch first-branch
+ 2240  git checkout first-branch
+ 2241  git branch -a
+ 2242  git status
+ 2243  git add .
+ 2244  git commit -m "Second Commit"
+ 2245  git log
+ 2246  git checkout master
+ 2247  git checkout first-branch
+ 2248  git status
+ 2249  git add .
+ 2250  git commit -m "third Commit"
+ 2251  git log
+ 2252  git checkout master
+ 2253  git log
+ 2254  git checkout first-branch
+ 2255  git log
+ 2256  git checkout 25ce8fd2e68b485a0f2b604f95f0fad0ddd29acd
+ 2257  git log
+ 2258  git branch
+ 2259  git checkout first-branch
+ 2260  git log
+ 2261  git checkout 25ce8fd2e68b485a0f2b604f95f0fad0ddd29acd
+ 2262  git log
+ 2263  ALTER USER 'root'@'localhost' IDENTIFIED BY 'YOUR_PASSWORD';
+ 2264  mysql -uroot -p
+ 2265  cd dcwnloads
+ 2266  ls
+ 2267  cd Downloads
+ 2268  python3 sidhiiiii.py
+ 2269  pip install mysql-connector-python
+ 2270  python3 sidhiiiii.py
+ 2271  mysql -uroot -p
+ 2272  python3 sidhiiiii.py -p
+ 2273  mysql -uroot -p
+ 2274  python3 sidhiiiii.py -p
+ 2275  clear
+ 2276  python3 sidhiiiii.py
+ 2277  clear
+ 2278  python3 sidhiiiii.py
+ 2279  clear
+ 2280  python3 sidhiiiii.py
+ 2281  1234clear
+ 2282  clear
+ 2283  python3 sidhiiiii.py
+ 2284  clear
+ 2285  python3 sidhiiiii.py
+ 2286  cleaclear
+ 2287  clear
+ 2288  python3 sidhiiiii.py
+ 2289  cd Desktop
+ 2290  cd github\ tut
+ 2291  git status
+ 2292  pwd
+ 2293  cd desktop
+ 2294  cd github\ tut
+ 2295  git status
+ 2296  git add .
+ 2297  git commit -m "Destory"
+ 2298  git log
+ 2299  git branch
+ 2300  git log
+ 2301  git checkout first-branch
+ 2302  git log
+ 2303  git branch
+ 2304  git checkout 030888a
+ 2305  git checkout first-branch
+ 2306  git log --online --all
+ 2307  git log --online
+ 2308  git log --oneline -all
+ 2309  git log --oneline
+ 2310  git log
+ 2311  git reset 25ce8fd2e68b485a0f2b604f95f0fad0ddd29acd
+ 2312  git status
+ 2313  git log --oneline
+ 2314  git log --oneline --all
+ 2315  git show-ref --head
+ 2316  git log
+ 2317  git log --all
+ 2318  git log --oneline --all
+ 2319  git log
+ 2320  git status
+ 2321  git add .
+ 2322  git commit -m "Destory"
+ 2323  git log
+ 2324  f857dfbf3fcd932f58671471985446c32d1abdfa
+ 2325  git log
+ 2326  git reset 2428fd3a73b216e413bdbf71319c9a2d9e521ece
+ 2327  git log
+ 2328  git log --oneline --all
+ 2329  git log
+ 2330  git show-ref --head
+ 2331  git log HEAD~2
+ 2332  git log HEAD~1
+ 2333  git reset HEAD@{1}
+ 2334  git log
+ 2335  git reset HEAD@{1}
+ 2336  git log
+ 2337  git reset HEAD@{1}
+ 2338  git log
+ 2339  git reset 25ce8fd2e68b485a0f2b604f95f0fad0ddd29acd
+ 2340  git log
+ 2341  git reset 2428fd3a73b216e413bdbf71319c9a2d9e521ece
+ 2342  git log
+ 2343  git reset HEAD@{1}
+ 2344  git log
+ 2345  git reset HEAD@{-1}
+ 2346  git log
+ 2347  git reset HEAD@{-1}
+ 2348  git reset HEAD@{1}
+ 2349  git log
+ 2350  git reset HEAD@{2}
+ 2351  git log
+ 2352  git reset HEAD@{3}
+ 2353  git log
+ 2354  git reset HEAD@{4}
+ 2355  git log
+ 2356  git reset HEAD@{6}
+ 2357  git log
+ 2358  git reset HEAD@{8}
+ 2359  git log
+ 2360  git stash
+ 2361  git log
+ 2362  git reset 25ce8fd2e68b485a0f2b604f95f0fad0ddd29acd
+ 2363  git status
+ 2364  git restore .
+ 2365  git stash pop
+ 2366  git reflog
+ 2367  git log
+ 2368  git log --oneline --all
+ 2369  git reset f857dfb
+ 2370  git log
+ 2371  git reset 25ce8fd2e68b485a0f2b604f95f0fad0ddd29acd
+ 2372  git log
+ 2373  git log --reverse COMMIT_HASH..
+ 2374  git log --reverse COMMIT_HASH
+ 2375  git reset HEAD@{1}
+ 2376  git log
+ 2377  git reset HEAD@{1}
+ 2378  git log
+ 2379  git reflog
+ 2380  git log
+ 2381  git reset HEAD@{1}
+ 2382  git log
+ 2383  git branch checking
+ 2384  git log
+ 2385  git reset 25ce8fd2e68b485a0f2b604f95f0fad0ddd29acd
+ 2386  git log
+ 2387  git branch
+ 2388  git checkout checking
+ 2389  git log
+ 2390  git status
+ 2391  git restore .
+ 2392  git status
+ 2393  git checkout checking
+ 2394  git log
+ 2395  git checkout first-branch
+ 2396  git log
+ 2397  git log --oneline --all
+ 2398  git log
+ 2399  git log --oneline --all
+ 2400  git add .
+ 2401  git commit -m "chaaaaa"
+ 2402  git log
+ 2403  git reset 25ce8fd2e68b485a0f2b604f95f0fad0ddd29acd
+ 2404  git log
+ 2405  git log --oneline --all
+ 2406  git status
+ 2407  git add .
+ 2408  git reset
+ 2409  git status
+ 2410  git reflog
+ 2411  git log --oneline --all
+ 2412  git restore .
+ 2413  git log
+ 2414  git log --oneline --all
+ 2415  git log -g
+ 2416  git log reflog
+ 2417  git reflog
+ 2418  git status
+ 2419  git add .
+ 2420  git commit -m "yyyyyy"
+ 2421  git log
+ 2422  git reflog
+ 2423  git log
+ 2424  git log -g
+ 2425  git log
+ 2426  git reset 25ce8fd2e68b485a0f2b604f95f0fad0ddd29acd
+ 2427  git restore .
+ 2428  git log
+ 2429  git reflog
+ 2430  git reset 8a04f95
+ 2431  git status
+ 2432  git restore .
+ 2433  git reflog
+ 2434  git remote add origin https://github.com/DivyankGoyal/div-ji.git
+ 2435  git remote -v
+ 2436  git remote add origin https://github.com/DivyankGoyal/researchpaper
+ 2437  git log
+ 2438  git checkout master
+ 2439  git log
+ 2440  git branch
+ 2441  git log
+ 2442  git checkout first-branch
+ 2443  git log
+ 2444  git remote show origin
+ 2445  git remote rm origin
+ 2446  git remote show origin
+ 2447  git remote add origin https://github.com/DivyankGoyal/researchpaper
+ 2448  git remote show origin
+ 2449  git remote add origin https://github.com/DivyankGoyal/researchpaper
+ 2450  git remote rm origin
+ 2451  git remote add origin https://github.com/DivyankGoyal/researchpaper
+ 2452  git remote rm origin
+ 2453  git remote add origin
+ 2454  git remote add origin https://github.com/DivyankGoyal/Secret-Codes
+ 2455  git remote show origin
+ 2456  git remote add origin https://github.com/DivyankGoyal/Secret-Codes
+ 2457  git remote show origin
+ 2458  git remote -v
+ 2459  git remote show origin
+ 2460  git remote rm origin
+ 2461  git remote show origin
+ 2462  git remote add origin https://github.com/suruchicoder/portal
+ 2463  git remote show origin
+ 2464  git remote -v
+ 2465  npm start
+ 2466  cd client
+ 2467  ls
+ 2468  npm run dev
+ 2469  npm start
+ 2470  cd desktop
+ 2471  cd Autotype
+ 2472  ls
+ 2473  python autotype.py
+ 2474  pip install pynput
+ 2475  python autotype.py
+ 2476  pip install pynput.keyboard
+ 2477  pip install pynput
+ 2478  python autotype.py
+ 2479  pip install pynput==1.7.3
+ 2480  pip install python-xlib==0.30
+ 2481  pip install six==1.16.0
+ 2482  pip install pyobjc==7.1; sys_platform=='darwin'
+ 2483  tk==0.1.0
+ 2484  pip install tk==0.1.0
+ 2485  pip install pillow==9.1.1
+ 2486  pip install typer==0.4.2
+ 2487  python autotype.py
+ 2488  pip install pynput
+ 2489  python3 autotype.py
+ 2490  pip install pyobjc==7.1
+ 2491  pip install pyobjc==7.3
+ 2492  python3 autotype.py
+ 2493  cd desktop
+ 2494  ls
+ 2495  cd Autotype
+ 2496  python3 autotype.py
+ 2497  npm start
+ 2498  cd desktop
+ 2499  ls
+ 2500  cd github\ tut
+ 2501  ls
+ 2502  git status
+ 2503  git log
+ 2504  git history
+ 2505  history
+ 2506  git log
+ 2507  git checkout 25ce8fd2e68b485a0f2b604f95f0fad0ddd29acd
+ 2508  git log
+ 2509  git checkout 2428fd3a73b216e413bdbf71319c9a2d9e521ece
+ 2510  git log
+ 2511  git checkout first-branch
+ 2512  git log
+ 2513  history
+ 2514  git reflog
+ 2515  git log --oneline --all
+ 2516  git log
+ 2517  history
+ 2518  git show origin
+ 2519  git rm origin
+ 2520  git remote add origin https://github.com/DivyankGoyal/researchpaper
+ 2521  git remote show origin
+ 2522  git push
+ 2523  git push -u orgin master
+ 2524  git push -u origin master
+ 2525  git log
+ 2526  git checkout master
+ 2527  git log
+ 2528  git merge first-branch
+ 2529  git log
+ 2530  history
+ 2531  rew install g++@12
+ 2532  brew install g++@12
+ 2533  brew install gcc@12
+ 2534  brew install gcc@13
+ 2535  brew install gcc@10
+ 2536  brew install g++@13
+ 2537  brew install g++@12
+ 2538  brew install g++@11
+ 2539  brew install gcc@13
+ 2540  brew install gcc@10
+ 2541  brew install gcc@11
+ 2542  brew reinstall gcc@11
+ 2543  xcode-select --install
+ 2544  brew reinstall gcc@11
+ 2545  brew reinstall gcc@10
+ 2546  brew reinstall gcc@11
+ 2547  brew reinstall gcc@12
+ 2548  brew reinstall gcc@13
+ 2549  brew reinstall gcc
+ 2550  cd desktop
+ 2551  cd C++\ compiler
+ 2552  /opt/homebrew/bin/g++-11 file.cpp
+ 2553  ./file.exe
+ 2554  ./file
+ 2555  /opt/homebrew/bin/g++-11 file.cpp
+ 2556  ./file
+ 2557  /opt/homebrew/bin/g++-11 file.cpp
+ 2558  ./file
+ 2559  /opt/homebrew/bin/g++-11 file.cpp
+ 2560  ./file
+ 2561  cd desktop
+ 2562  cd User
+ 2563  git init
+ 2564  git status
+ 2565  git add .
+ 2566  git commit -m "first - commit"
+ 2567  git status
+ 2568  git branch -M main
+ 2569  git remote add origin https://github.com/DivyankGoyal/Sublime-userfile.git
+ 2570  git push -u origin main
+ 2571  git remote show origin
